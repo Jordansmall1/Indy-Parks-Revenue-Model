@@ -36,7 +36,5 @@ The model was used internally by CFO Jonathan George during 2026 fee restructuri
 ## Stakeholder Impact  
 The model supported real policy decisions and was reviewed by:
 - CFO of Indy Parks  
-- Finance & Business Development Office  
-- Mayor’s Office analysts
 
-This project demonstrates skills in applied economics, financial modeling, and public-sector analytics.
+This project demonstrates skills in applied economics and financial modeling
